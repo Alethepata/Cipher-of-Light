@@ -6,7 +6,7 @@ Il gioco per funzionare ha bisogno di Node.js.
 
 Ecco una piccola guida su come far partire il gioco:
 
-- Scarica Node.js (sul suo sito ufficiale)
+- Scarica Node.js (https://nodejs.org/en/download/current)
 - Scarica il file zip del gioco (Per scaricare il file zip basta cliccare il tasto con su scritto "<> Code" qui in alto e selezionare "Dowload Zip")
 - Estrai il file zip
 - Apri il prompt dei comandi/Terminale
